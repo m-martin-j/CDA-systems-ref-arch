@@ -1,8 +1,8 @@
 # A Reference Architecture for Concept Drift Adaptation Systems
 
-A reference architecture for concept drift adaptation (CDA) systems was derived based on substantiated knowledge on CDA systems as well as on existing yet not uniformly described systems. Subject orientation (SO) is selected as modeling method. A few representatives of existing systems are provided in the folder [existing_descriptions](existing_descriptions).
+A reference architecture for concept drift adaptation (CDA) systems was derived based on substantiated knowledge on CDA systems as well as on existing yet not uniformly described systems. Subject orientation (SO), featuring subject interaction diagrams (SID) and subject behavior diagrams (SBD), is selected as modeling method. A few representatives of existing systems are provided in the folder [existing_descriptions](existing_descriptions).
 
-The reference architecture is provided in the file [Reference_Architecture_CDA.vsdx](Reference_Architecture_CDA.vsdx). It can be employed to design specialized CDA system architectures.
+The reference architecture is provided in the file [Reference_Architecture_CDA.vsdx](Reference_Architecture_CDA.vsdx). It can be employed to design specialized CDA system architectures. As a courtesy to the user, PDF representations of the reference architecture are provided in the folder [pdf](pdf).
 
 The associated Paper is available at [TBD](TBD), cite as (BibTex): TBD
 
