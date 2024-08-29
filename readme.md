@@ -12,5 +12,5 @@ The associated Paper is available at [TBD](TBD), cite as (BibTex): TBD
 
 ## Setup
 1. Install Microsoft Visio 2013 or newer.
-1. To make SO available in Visio via the modeling language Parallel Activity Specification Schema (PASS), follow the installation guideline provided at [https://subjective-me.jimdofree.com/visio-modelling/](https://subjective-me.jimdofree.com/visio-modelling/).
+1. To make SO available in Visio via the modeling language Parallel Activity Specification Schema (PASS), follow the installation guideline provided at [https://subjective-me.jimdofree.com/visio-modelling/](https://subjective-me.jimdofree.com/visio-modelling/) or [https://github.com/MatthesElstermann/ALPS-Visio-Add-In](https://github.com/MatthesElstermann/ALPS-Visio-Add-In).
 1. Clone this repository.
