@@ -4,7 +4,19 @@ A reference architecture for concept drift adaptation (CDA) systems was derived 
 
 The reference architecture is provided in the file [Reference_Architecture_CDA.vsdx](Reference_Architecture_CDA.vsdx). It can be employed to design specialized CDA system architectures. As a courtesy to the user, PDF representations of the reference architecture are provided in the folder [pdf](pdf).
 
-The associated Paper is available at [TBD](TBD), cite as (BibTex): TBD
+The associated Paper is available at [TBD](TBD), cite as (BibTex):
+```
+@inproceedings{Trat.xxxx,
+ author = {Trat, Martin and Elstermann, Matthes and Deckers, Jana and Ovtcharova, Jivka},
+ title = {Modeling A Reference Architecture for Concept Drift Adaptation Systems},
+ publisher = {{Hawaii International Conference on System Sciences}},
+ series = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+ editor = {Bui, Tung},
+ booktitle = {Proceedings of the xxxx Hawaii International Conference on System Sciences},
+ year = {Manuscript under review},
+ doi = {xxxx}
+}
+```
 
 
 ## Requirements
@@ -14,3 +26,6 @@ The associated Paper is available at [TBD](TBD), cite as (BibTex): TBD
 1. Install Microsoft Visio 2013 or newer.
 1. To make SO available in Visio via the modeling language Parallel Activity Specification Schema (PASS), follow the installation guideline provided at [https://subjective-me.jimdofree.com/visio-modelling/](https://subjective-me.jimdofree.com/visio-modelling/) or [https://github.com/MatthesElstermann/ALPS-Visio-Add-In](https://github.com/MatthesElstermann/ALPS-Visio-Add-In).
 1. Clone this repository.
+
+## Acknowledgments
+We want to thank the esteemed anonymous reviewers of the 58th Hawaii International Conference on System Sciences 2025 for their valuable feedback contributing to improve this reference architecture.
