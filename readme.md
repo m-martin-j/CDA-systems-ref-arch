@@ -4,17 +4,13 @@ A reference architecture for concept drift adaptation (CDA) systems was derived 
 
 The reference architecture is provided in the file [Reference_Architecture_CDA.vsdx](Reference_Architecture_CDA.vsdx). It can be employed to design specialized CDA system architectures. As a courtesy to the user, PDF representations of the reference architecture are provided in the folder [pdf](pdf).
 
-The associated Paper is available at [TBD](TBD), cite as (BibTex):
+The associated Paper will become available under [https://scholarspace.manoa.hawaii.edu/](https://scholarspace.manoa.hawaii.edu/). Cite as (BibTex):
 ```
-@inproceedings{Trat.xxxx,
+@inproceedings{Trat.2025,
  author = {Trat, Martin and Elstermann, Matthes and Deckers, Jana and Ovtcharova, Jivka},
  title = {Modeling A Reference Architecture for Concept Drift Adaptation Systems},
- publisher = {{Hawaii International Conference on System Sciences}},
- series = {Proceedings of the Annual Hawaii International Conference on System Sciences},
- editor = {Bui, Tung},
- booktitle = {Proceedings of the xxxx Hawaii International Conference on System Sciences},
- year = {Manuscript under review},
- doi = {xxxx}
+ booktitle = {Proceedings of the 58th Hawaii International Conference on System Sciences},
+ year = {in press}
 }
 ```
 
